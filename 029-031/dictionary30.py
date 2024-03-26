@@ -1,8 +1,8 @@
 me = {
-    "name": "mohammad",
-    "family": "ordookhani",
+    "name": "Reira",
+    "family": "Serizawa",
     "age": 24,
-    "email": "moh96ordo@gmail.com"
+    "email": "nemidoonam@gmail.com"
 }
 
 # print(me["email"])
@@ -14,6 +14,6 @@ me = {
 # else:
 #     print("there is no email key in me")
 
-# isNameExist = "mohammad" in me.values()
+# isNameExist = "Reira" in me.values()
 
 # print(isNameExist)
