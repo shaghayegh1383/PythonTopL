@@ -1,7 +1,7 @@
 me = {
-    "name": "mohammad",
-    "family": "ordookhani",
-    "email": "moh96ordo@gmail.com"
+    "name": "Reira",
+    "family": "Serizawa",
+    "email": "nemidoonam@gmail.com"
 }
 
 # print(me)
@@ -13,7 +13,7 @@ me = {
 
 second = {
     "age": 50,
-    "name": "milad"
+    "name": "ali"
 }
 
 print(second)
