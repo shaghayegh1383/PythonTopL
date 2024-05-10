@@ -102,6 +102,4 @@ res_num = Entry(top_fourth , highlightbackground= color , textvariable= res_valu
 res_num.pack (side=LEFT)
 
 
-
-
 root.mainloop()
